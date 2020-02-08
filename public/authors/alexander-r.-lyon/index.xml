@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander R. Lyon on Anthony Matthews, PhD</title>
+    <link>/authors/alexander-r.-lyon/</link>
+    <description>Recent content in Alexander R. Lyon on Anthony Matthews, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/alexander-r.-lyon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statin use in cancer survivors versus the general population: cohort study using primary care data from the UK clinical practice research datalink</title>
+      <link>/publication/statins_cancer/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/statins_cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long term adjuvant endocrine therapy and risk of cardiovascular disease in female breast cancer survivors: systematic review</title>
+      <link>/publication/endocrine_review/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/endocrine_review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sinead M. Langan on Anthony Matthews, PhD</title>
+    <link>/authors/sinead-m.-langan/</link>
+    <description>Recent content in Sinead M. Langan on Anthony Matthews, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/sinead-m.-langan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Safety of medicines delivered by homecare companies</title>
+      <link>/publication/homecare/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/homecare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phosphodiesterase type 5 inhibitors and risk of malignant melanoma: matched cohort study using primary care data from the UK Clinical Practice Research Datalink</title>
+      <link>/publication/pde5/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/pde5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statin use and the risk of herpes zoster: a nested case–control study using primary care data from the U.K. Clinical Research Practice Datalink</title>
+      <link>/publication/statins_zoster/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/statins_zoster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

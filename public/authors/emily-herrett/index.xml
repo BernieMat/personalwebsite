@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Herrett on Anthony Matthews, PhD</title>
+    <link>/authors/emily-herrett/</link>
+    <description>Recent content in Emily Herrett on Anthony Matthews, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/emily-herrett/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impact of statin related media coverage on use of statins: interrupted time series analysis with UK primary care data</title>
+      <link>/publication/statins_media/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/statins_media/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

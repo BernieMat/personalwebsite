@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CausaBig Data for Causal Inference on Anthony Matthews, PhD</title>
+    <link>/tags/causabig-data-for-causal-inference/</link>
+    <description>Recent content in CausaBig Data for Causal Inference on Anthony Matthews, PhD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/causabig-data-for-causal-inference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/project/causal-inference/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/causal-inference/</guid>
+      <description>&lt;p&gt;In April 2019 I moved to the Karolinska Instituet in Stockholm, Sweden, to work with Professor Miguel Hernan. We are currently developing a range of projects with the main aim of advancing causal inference methodologies applied to Swedish registry data. The includes understanding how we can use these obersvational big datasets to emulate randoized trials.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
